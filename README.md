@@ -1,2 +1,2 @@
-# Year-II-AI
-my year two AI project
+# budget app
+My year 1 recess activity
